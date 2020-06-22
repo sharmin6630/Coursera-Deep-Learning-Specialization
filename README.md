@@ -3,7 +3,7 @@
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## **About** 
-This course is offered by *deeplearning.ai* on coursera.
+This course is offered by *deeplearning.ai* on Coursera.
 
 ## **Courses**
 - <a href="https://www.coursera.org/learn/neural-networks-deep-learning">Neural Networks and Deep Learning</a><br />
